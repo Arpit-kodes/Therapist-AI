@@ -1,4 +1,5 @@
-#Serenity AI Therapist Bot - Project Description
+Serenity AI Therapist Bot - Project Description
+
 Serenity is an AI-powered mental health support chatbot designed to provide compassionate, judgment-free conversations to users seeking emotional support. Built with a calming green-themed interface, it leverages natural language processing (NLP) to engage in meaningful dialogue, detect emotional distress, and offer empathetic responses.
 
 Key Features
